@@ -1,0 +1,120 @@
+[[QUaD]]
+name = "QUaD"
+authors = "Wu. et. al"
+year = 2009
+beta = 0.55
+beta_sigma = 0.82
+beta_sys = 0.5
+arxiv = "0811.0618"
+doi = "https://doi.org/10.1103/PhysRevLett.102.161302"
+
+[[WMAPBOOMERANG]]
+name = "WMAP and BOOMERANG"
+authors = "Feng et. al"
+year = 2006
+beta = -6
+beta_sigma = 4
+beta_sys = 0 
+arxiv = "astro-ph/0601095"
+doi = "https://doi.org/10.1103/PhysRevLett.96.221302"
+
+[[WMAPBOOMERANG]]
+name = "WMAP and BOOMERANG"
+authors = "Xia et. al"
+year = 2008
+beta = -6.2
+beta_sigma = 3.8
+beta_sys = 0 
+arxiv = "0710.3325"
+doi = "https://doi.org/10.1051/0004-6361%3A200809410"
+
+[[WMAP5]]
+name = "WMAP 5 years"
+authors = "Komatsu et. al"
+year = 2009
+beta = -1.1
+beta_sigma = 1.4
+beta_sys = 1.5
+arxiv = "0803.0547"
+doi = "https://doi.org/10.1088/0067-0049/180/2/330"
+
+[[ACTa]]
+name = "ACT"
+authors = "Namikawa et. al"
+year = 2020
+beta = 0.12
+beta_sigma = 0.06
+beta_sys = 0
+arxiv = "2001.10465"
+doi = "https://doi.org/10.1103/PhysRevD.101.083527"
+
+[[ACTb]]
+name = "ACT 98+150"
+authors = "Choi et. al"
+year = 2020
+beta = 0.095
+beta_sigma = 0.087
+beta_sys = 0
+arxiv = "2007.07289"
+doi = "https://doi.org/10.1088/1475-7516/2020/12/045"
+
+[[Planck]]
+name = "Planck"
+authors = "Aghanim et. al"
+year = 2016
+beta = 0.35
+beta_sigma = 0.05
+beta_sys = 0.28
+arxiv = "1605.08633"
+doi = "	https://doi.org/10.1051/0004-6361/201629018"
+
+[[PlanckMK]]
+name = "Planck MK"
+authors = "Minami & Komatsu"
+year = 2020
+beta = 0.35
+beta_sigma = 0.14
+beta_sys = 0
+arxiv = "2011.11254"
+doi = "https://doi.org/10.1103/PhysRevLett.125.221301"
+
+[[Planckdr4]]
+name = "Planck DR4"
+authors = "Diego-Palazuelos et. al."
+year = 2022
+beta = 0.30
+beta_sigma = 0.11
+beta_sys = 0
+arxiv = "2201.07682"
+doi = "https://doi.org/10.1103/PhysRevLett.128.091302"
+
+[[Cosmoglobe]]
+name = "Cosmoglobe DR1"
+authors = "Eskilt et. al."
+year = 2023
+beta = 0.35
+beta_sigma = 0.7
+beta_sys = 0
+arxiv = "2305.02268"
+doi = "https://doi.org/10.1051/0004-6361/202346829"
+
+[[POLARBEAR]]
+name = "POLARBEAR"
+authors = "Adachi et. al."
+year = 2020
+beta = -0.61
+beta_sigma = 0.22
+beta_sys = 0
+arxiv = "1910.02608"
+doi = "https://doi.org/10.3847/1538-4357/ab8f24"
+
+
+[[SPT]]
+name = "SPTpol"
+authors = "Bianchini et. al."
+year = 2020
+beta = 0.63
+beta_sigma = 0.04
+beta_sys = 0
+arxiv = "2006.08061"
+doi = "https://doi.org/10.1103/PhysRevD.102.083504"

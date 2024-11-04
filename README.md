@@ -1,0 +1,1 @@
+# Isotropic Cosmic Birefringence Database
